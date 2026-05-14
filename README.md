@@ -39,6 +39,6 @@ The pipeline consists of three stages:
 ## Installation
 
 ```bash
-git clone https://github.com/dzrlva/TGPR_project.git
+git clone https://github.com/AnonimusCoders/TGPR_code_refinement.git
 cd TGPR_project
 pip install -r requirements.txt
